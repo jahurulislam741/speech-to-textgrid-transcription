@@ -34,8 +34,3 @@ E.  TO RUN THE TOOLKIT:
  python3
  ffmpeg
  praat: (https://www.fon.hum.uva.nl/praat/)
-
-
- #speech-to-praat-textgrid
-# speech-to-praat-textgrid
-# test-transcription
