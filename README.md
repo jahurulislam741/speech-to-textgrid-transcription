@@ -5,7 +5,7 @@ AUTHOR: Jahurul Islam: jahurul.islam741@gmail.com; Aug. 15. 2022, Vancouver, Can
 A. This toolkit generates Praat textgrids with "sentence-level" transcriptions from audio files ONLY
  The output textgrids can be used as input for Montreal Forced Aligner (or similar)
  This can reduce a lot of manual work transcribing audio in a time-aligned format
- It uses the vosk-api for speech-to-text conversion; source: https://unix.stackexchange.com/questions/256138/is-there-any-decent-speech-recognition-software-for-linux; details: https://alphacephei.com/vosk/
+ It uses the vosk-api for speech-to-text conversion: https://alphacephei.com/vosk/
  Written and tested on Linux (Mint Cinammon 21)
 
 
