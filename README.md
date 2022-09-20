@@ -20,10 +20,13 @@ C.  PIPELINE: audio_files >> processed_audio >> speech_to_text_results >> proces
 D.  CHECK ACCURACY: The texgrids should be manually checked and corrected for mistakes and improve accuracy
 
 E.  TO RUN THE TOOLKIT: 
+
     1. place your .wav files into folder "audio_files" (DO NOT rename this folder)
+    
     2. run the following command in the linux/unix terminal
 
         $ bash transcribe_english.sh
+        
     3. transcription textgrids will be saved in a folder called "output_textgrids"
 
 
