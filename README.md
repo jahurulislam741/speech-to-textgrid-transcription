@@ -1,5 +1,4 @@
 
-AUTHOR: Jahurul Islam: jahurul.islam741@gmail.com; Aug. 15. 2022, Vancouver, Canada
 
 
 A. This toolkit generates Praat textgrids with "sentence-level" transcriptions from audio files ONLY
