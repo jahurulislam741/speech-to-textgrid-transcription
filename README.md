@@ -28,8 +28,7 @@ E.  TO RUN THE TOOLKIT:
         
     3. transcription textgrids will be saved in a folder called "output_textgrids"
 
-
-7. DEPENDENCIES: make sure the following programs are installed in your system
- python3
- ffmpeg
- praat: (https://www.fon.hum.uva.nl/praat/)
+E. DEPENDENCIES: make sure the following programs are installed in your system: 
+ 1. python3
+ 2. ffmpeg
+ 3. praat: (https://www.fon.hum.uva.nl/praat/)
